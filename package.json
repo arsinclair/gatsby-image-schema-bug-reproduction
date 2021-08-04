@@ -1,0 +1,18 @@
+{
+    "name": "gatsby-imgix-images-reproduction",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "develop": "gatsby develop",
+        "build": "gatsby build"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@imgix/gatsby": "^1.6.11",
+        "gatsby": "^3.10.2",
+        "gatsby-transformer-json": "^3.10.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
